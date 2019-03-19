@@ -36,7 +36,7 @@ body{
 
 /* Responsive Images */
 #cspio-description img,#cspio-thankyoumsg img, #cspio-logo{
-	max-width:100%;
+	max-width:60%;
 	height:auto;
 }
 
